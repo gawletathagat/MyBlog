@@ -1,3 +1,3 @@
 <?php
-  include_once("score keeper.html");
+  include_once("MyBlog.html");
 ?>
